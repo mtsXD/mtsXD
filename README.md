@@ -37,7 +37,7 @@
 
 ### Projetos🧙‍♂️:
 
-<img align="left" src="https://assets-global.website-files.com/60c830108811877d7f01afdc/64a13e012fbb1442a9d737d7_Navy%20Wide%20Logo%402x.png" alt="tensorflow" height="40px"/>
+ <a href="https://www.theforage.com/" target="_blank"><img align="left" src="https://assets-global.website-files.com/60c830108811877d7f01afdc/64a13e012fbb1442a9d737d7_Navy%20Wide%20Logo%402x.png" alt="tensorflow" height="40px"/></a>
 <br>
 <br>
 <a href="https://github.com/mtsXD/Forage/blob/main/MasterCard/Mateus_mastercard_cert.pdf" target="_blank"> <img align="left" src="https://logos-world.net/wp-content/uploads/2020/09/Mastercard-Logo-2016-2020.png" alt="pytorch" height="60px"/> </a>
