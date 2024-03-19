@@ -15,7 +15,7 @@
 <img align="right" alt="GIF" src="https://media.tenor.com/EpgQmvLA3rUAAAAC/misato-katsuragi-neon-genesis-evangelion.gif" width="440px"/>
 
 ### O que há aqui🔍:
-- &nbsp; Há um repositório destinado aos meus projetos no [Forage](https://github.com/mtsXD/Portfolio).
+- &nbsp; Há um repositório destinado aos meus projetos no [Forage](https://github.com/mtsXD/Forage).
 - &nbsp; Há um destinado também aos cursos do [Coursera](https://github.com/mtsXD/Coursera).
 - &nbsp; Deixarei outros para labs e desafios CTF.
 - &nbsp; Alguns artigos pra quem quiser ler.
