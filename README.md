@@ -16,7 +16,13 @@
 - &nbsp; Deixarei outros para labs e desafios CTF.
 - &nbsp; Alguns artigos pra quem quiser ler.
 - &nbsp; Por fim, configurações unix de segurança.
+
+ #
+ ### Certificações🕵️‍♀️:
+ <a href="https://www.credly.com/badges/fb024453-c165-4159-a9f6-da87fb213eed/linked_in_profile" target="_blank"> <img align="left" src="https://images.credly.com/size/340x340/images/63482325-a0d6-4f64-ae75-f5f33922c7d0/CompTIA_A_2Bce.png" alt="pytorch" height="60px"/> </a> 
+ <a href="https://www.credly.com/badges/f1b3ce74-59df-4e68-972d-a2c96684546e/linked_in_profile" target="_blank"> <img align="left" src="https://images.credly.com/size/340x340/images/daf36702-99d0-4ebb-9788-ba7ac797cc8e/image.png" alt="tensorflow" height="60px"/> </a> 
 <!--
+
 **mtsXD/mtsXD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
