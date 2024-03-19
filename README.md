@@ -1,4 +1,12 @@
-### Hi there 👋
+### Aoba! Meu nome é Mateus Breno.
+🥷 Estudo segurança Cibernética.
+
+🫥 Fã de Evangelion e Misatofag (sᴏʟɪᴄɪᴛᴏ ᴘᴇʀᴅᴀ̃ᴏ 😔✊).
+
+🧑‍💻 E aqui é mais para colocar meus projetos, portifolios e walkthrough.
+
+
+
 
 <!--
 **mtsXD/mtsXD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
