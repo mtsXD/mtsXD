@@ -12,7 +12,7 @@
 
 <div>
  
-<img align="right" alt="GIF" src="https://media.tenor.com/EpgQmvLA3rUAAAAC/misato-katsuragi-neon-genesis-evangelion.gif" width="450px"/>
+<img align="right" alt="GIF" src="https://media.tenor.com/EpgQmvLA3rUAAAAC/misato-katsuragi-neon-genesis-evangelion.gif" width="440px"/>
 
 ### O que há aqui🔍:
 - &nbsp; Há um repositório destinado aos meus projetos no [Forage](https://github.com/mtsXD/Portfolio).
