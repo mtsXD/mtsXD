@@ -8,8 +8,9 @@
 #
 
 
-<img align="right" alt="GIF" src="https://media.tenor.com/EpgQmvLA3rUAAAAC/misato-katsuragi-neon-genesis-evangelion.gif" width="320px"/>
+<img align="right" alt="GIF" src="https://media.tenor.com/EpgQmvLA3rUAAAAC/misato-katsuragi-neon-genesis-evangelion.gif" width="470px"/>
 
+### O que há aqui🔍:
 - &nbsp; Há um repositório destinado aos meus projetos no [Forage](https://github.com/mtsXD/Portfolio).
 - &nbsp; Há um destinado também aos cursos do [Coursera](https://github.com/mtsXD/Coursera).
 - &nbsp; Deixarei outros para labs e desafios CTF.
