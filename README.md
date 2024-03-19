@@ -37,7 +37,8 @@
 ### Projetos🧙‍♂️:
 <img align="left" src="https://assets-global.website-files.com/60c830108811877d7f01afdc/64a13e012fbb1442a9d737d7_Navy%20Wide%20Logo%402x.png" alt="tensorflow" height="40px"/>
 <br>
- <a href="https://github.com/mtsXD/Forage/blob/main/MasterCard/Mateus_mastercard_cert.pdf" target="_blank"> <img align="left" src="https://th.bing.com/th/id/OIP.8hSdZiAvNki23CzVyAvSLQHaEK?rs=1&pid=ImgDetMain" alt="pytorch" height="60px"/> </a>
+<br>
+<a href="https://github.com/mtsXD/Forage/blob/main/MasterCard/Mateus_mastercard_cert.pdf" target="_blank"> <img align="left" src="https://th.bing.com/th/id/OIP.8hSdZiAvNki23CzVyAvSLQHaEK?rs=1&pid=ImgDetMain" alt="pytorch" height="60px"/> </a>
 
 
 </div>
