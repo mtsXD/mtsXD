@@ -1,9 +1,9 @@
 ### Aoba! Meu nome é Mateus Breno.
-🥷 Estudo segurança Cibernética.
+🥷 Estudo 𝗦𝗲𝗴𝘂𝗿𝗮𝗻𝗰̧𝗮 𝗖𝗶𝗯𝗲𝗿𝗻𝗲́𝘁𝗶𝗰𝗮.
 
-🫥 Fã de Evangelion e Misatofag (sᴏʟɪᴄɪᴛᴏ ᴘᴇʀᴅᴀ̃ᴏ 😔✊).
+🫥 Fã de 𝗘𝘃𝗮𝗻𝗴𝗲𝗹𝗶𝗼𝗻 e 𝗠𝗶𝘀𝗮𝘁𝗼𝗳𝗮𝗴 (sᴏʟɪᴄɪᴛᴏ ᴘᴇʀᴅᴀ̃ᴏ 😔✊).
 
-🧑‍💻 E aqui é mais para colocar meus projetos, portifolios e walkthrough.
+🧑‍💻 E aqui é mais para colocar meus 𝗽𝗿𝗼𝗷𝗲𝘁𝗼𝘀, 𝗽𝗼𝗿𝘁𝗶𝗳𝗼́𝗹𝗶𝗼𝘀 e 𝘄𝗮𝗹𝗸𝘁𝗵𝗿𝗼𝘂𝗴𝗵.
 
 
 
