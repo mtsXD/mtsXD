@@ -11,7 +11,7 @@
 <h1>O que há aqui🔍</h1>
 <br>
 
-<img align="right" alt="GIF" src="https://media.tenor.com/EpgQmvLA3rUAAAAC/misato-katsuragi-neon-genesis-evangelion.gif" width="440px"/>
+<img align="right" alt="GIF" src="https://media.tenor.com/EpgQmvLA3rUAAAAC/misato-katsuragi-neon-genesis-evangelion.gif" width="440px"/></p>
 
 - &nbsp; Há um repositório destinado aos meus projetos no [Forage](https://github.com/mtsXD/Forage).
 - &nbsp; Há um destinado também aos cursos do [Coursera](https://github.com/mtsXD/Coursera).
@@ -27,7 +27,7 @@
  <br>
  
  <a href="https://www.credly.com/badges/fb024453-c165-4159-a9f6-da87fb213eed/linked_in_profile" target="_blank"> <img align="left" src="https://images.credly.com/size/340x340/images/63482325-a0d6-4f64-ae75-f5f33922c7d0/CompTIA_A_2Bce.png" alt="pytorch" height="60px"/> </a> 
- <a href="https://www.credly.com/badges/f1b3ce74-59df-4e68-972d-a2c96684546e/linked_in_profile" target="_blank"> <img align="left" src="https://th.bing.com/th/id/OIP.abKAcnC23yvdnWXIcaJhhQAAAA?rs=1&pid=ImgDetMain" alt="tensorflow" height="60px"/> </a> 
+ <a href="https://www.credly.com/badges/f1b3ce74-59df-4e68-972d-a2c96684546e/linked_in_profile" target="_blank"> <img align="left" src="https://th.bing.com/th/id/OIP.abKAcnC23yvdnWXIcaJhhQAAAA?rs=1&pid=ImgDetMain" alt="tensorflow" height="60px"/> </a> </p>
 <br>
 <br>
 
@@ -35,7 +35,7 @@
 <br>
 
  <a href="https://www.theforage.com/" target="_blank"><img align="left" src="https://assets-global.website-files.com/60c830108811877d7f01afdc/64a13e012fbb1442a9d737d7_Navy%20Wide%20Logo%402x.png" alt="tensorflow" height="40px"/></a>
-<br>
+
 <br>
 <a href="https://github.com/mtsXD/Forage/blob/main/MasterCard/Mateus_mastercard_cert.pdf" target="_blank"> <img align="left" src="https://logos-world.net/wp-content/uploads/2020/09/Mastercard-Logo-2016-2020.png" alt="pytorch" height="60px"/> </a>
 <a href="https://github.com/mtsXD/Forage/blob/main/ANZ/Mateus_ANZ_cert.pdf" target="_blank"> <img align="left" src="https://logos-world.net/wp-content/uploads/2021/02/ANZ-Logo-700x394.png" alt="pytorch" height="60px"/> </a>
