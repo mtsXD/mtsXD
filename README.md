@@ -29,7 +29,6 @@
  <a href="https://www.credly.com/badges/fb024453-c165-4159-a9f6-da87fb213eed/linked_in_profile" target="_blank"> <img align="left" src="https://images.credly.com/size/340x340/images/63482325-a0d6-4f64-ae75-f5f33922c7d0/CompTIA_A_2Bce.png" alt="pytorch" height="60px"/> </a> 
  <a href="https://www.credly.com/badges/f1b3ce74-59df-4e68-972d-a2c96684546e/linked_in_profile" target="_blank"> <img align="left" src="https://th.bing.com/th/id/OIP.abKAcnC23yvdnWXIcaJhhQAAAA?rs=1&pid=ImgDetMain" alt="tensorflow" height="60px"/> </a> </p>
 <br>
-<br>
 
 <h1>Projetos🧙‍♂️</h1>
 <br>
