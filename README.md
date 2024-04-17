@@ -21,7 +21,7 @@
 
 - &nbsp; Há um repositório destinado aos meus projetos no [Forage](https://github.com/mtsXD/Forage).
 - &nbsp; Há um destinado também aos cursos do [Coursera](https://github.com/mtsXD/Coursera).
-- &nbsp; Deixarei outros para labs e desafios CTF.
+- &nbsp; Deixarei outros para labs e desafios [CTF](https://github.com/mtsXD/CTF/blob/main/README.md).
 - &nbsp; Alguns laboratórios com configuração da [Cisco](https://github.com/mtsXD/lab_CISCO).
 - &nbsp; Por fim, configurações unix de segurança.
 
