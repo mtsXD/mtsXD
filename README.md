@@ -36,7 +36,6 @@
 <a href="https://github.com/mtsXD/Forage/blob/main/MasterCard/Mateus_mastercard_cert.pdf" target="_blank"> <img align="center" src="https://logos-world.net/wp-content/uploads/2020/09/Mastercard-Logo-2016-2020.png" alt="pytorch" height="60px"/> </a>
 <a href="https://github.com/mtsXD/Forage/blob/main/ANZ/Mateus_ANZ_cert.pdf" target="_blank"> <img align="center" src="https://logos-world.net/wp-content/uploads/2021/02/ANZ-Logo-700x394.png" alt="pytorch" height="60px"/> </a></p>
 <br>
-<br>
 
 <h1>redes</h1>
 <br>
