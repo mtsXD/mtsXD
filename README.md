@@ -42,9 +42,8 @@
 <h1>redes</h1>
 <br>
 
-<p align="left" href="https://github.com/mtsXD/Forage/blob/main/MasterCard/Mateus_mastercard_cert.pdf" target="_blank">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/mtsXD.png" alt="TryHackMe">
-</p>
+
+<a href="https://tryhackme.com/p/mtsXD" target="_blank"> <img align="left" src="https://tryhackme-badges.s3.amazonaws.com/mtsXD.png" alt="pytorch" height="60px"/> </a></p>
 
 <!--
 
